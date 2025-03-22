@@ -1,0 +1,12 @@
+{
+  "name": "dental-website",
+  "version": "0.1.0",
+  "framework": "nextjs",
+  "projectType": "app-router",
+  "appDirectory": "app",
+  "i18n": true,
+  "mainFile": "app/page.tsx",
+  "layoutFile": "app/layout.tsx",
+  "localeMainFile": "app/[locale]/page.tsx",
+  "localeLayoutFile": "app/[locale]/layout.tsx"
+} 

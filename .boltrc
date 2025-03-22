@@ -1,0 +1,6 @@
+{
+  "projectType": "nextjs",
+  "framework": "react",
+  "entry": "app/page.tsx",
+  "i18n": true
+} 
